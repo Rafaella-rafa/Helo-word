@@ -1,3 +1,3 @@
-# OLÁ
-Esse é meu primeiro repositório .
-Esse é meu primeiro repositório. Meu nome é Rafaella Alves. Trabalho como Analista de Sistemas desde 2019. Sempre procuro aprender novas tecnologias. No meu tempo livre gosto de ouvir música, ver filmes e séries e viajo. 
+# HI
+This is my first repository.
+This is my first repository. My name is Rafaella Alves. I have been working as a Systems Analyst since 2019. I always try to learn new technologies. In my free time I like to listen to music, watch movies and series ..
